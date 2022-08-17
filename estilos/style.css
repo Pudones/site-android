@@ -54,9 +54,12 @@ footer > p {
 }
 
 .header {
-  background-image: linear-gradient(to bottom, var(--cor0), var(--cor1), var(--cor2)5%, var(--cor3) 30%, var(--cor4)70%, var(--cor5) 80%);
+  /* background-image: linear-gradient(to bottom, var(--cor0), var(--cor1), var(--cor2)5%, var(--cor3) 30%, var(--cor4)70%, var(--cor5) 80%); */
+
+  background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
   padding: 15px 30px 70px;
   min-height: 150px;
+  
 }
 
 .nav-header {
